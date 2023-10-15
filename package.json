@@ -1,0 +1,25 @@
+{
+  "name": "backendnode",
+  "version": "1.0.0",
+  "description": "latihan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanjhr/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "zanjhr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanjhr/apprestapi/issues"
+  },
+  "homepage": "https://github.com/zanjhr/apprestapi#readme"
+}
